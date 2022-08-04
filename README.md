@@ -1,3 +1,4 @@
+
 # DIO Shopping
 
 Project developed with React during the Impulso JavaScript Evolution Bootcamp at [DIO](https://www.dio.me/en).
@@ -5,7 +6,6 @@ Project developed with React during the Impulso JavaScript Evolution Bootcamp at
 This project has two pages:
 - A home page with a list of products that you can add to the shopping cart,  add or remove the items. 
 - A contact page you can send a message, since you are running the [Server Side API](https://github.com/diegovianaf/dio-shopping-api) of this project.
-
 
 In the project directory, you can run:
 
@@ -23,6 +23,10 @@ You may also see any lint errors in the console.
 - [React Router](https://reactrouter.com/)
 - [Redux](https://redux.js.org/)
 - [Material UI](https://mui.com/)
+
+## Demo
+
+https://dio-shopping.netlify.app/
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/92064022/182886394-ec5486c9-c45b-4f5d-a5b4-b3771e6b5d79.png)\
